@@ -1,0 +1,6 @@
+for( let i=1; i<=1000; i++){
+
+    if(i%7==00){
+        console.log(i);
+    }
+}
